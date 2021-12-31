@@ -14,16 +14,16 @@ Utilizado en el curso 2020-2021.
 
 En este repositorio encontraréis:
 
-- Criterios de calificación usados.
+- [Criterios de calificación usados](https://github.com/DavidLMS/SeguridadInformatica/blob/master/Criterios%20de%20calificación%20(PD).pdf).
 
-- Criterios de evaluación (información para que el estudiante conozca la categoría de cada uno).
+- [Criterios de evaluación](https://github.com/DavidLMS/SeguridadInformatica/blob/master/Criterios%20de%20evaluacion.pdf) (información para que el estudiante conozca la categoría de cada uno).
 
-- Un documento de organización del módulo, en el que se indica entre otras cosas con qué instrumento se evalúa cada criterio.
+- Un [documento de organización del módulo](https://github.com/DavidLMS/SeguridadInformatica/blob/master/Organización%20Seguridad%20Informática.pdf), en el que se indica entre otras cosas con qué instrumento se evalúa cada criterio.
 
-- Exámenes de evaluación.
+- [Pruebas de evaluación](https://github.com/DavidLMS/SeguridadInformatica/tree/master/PDF/Exámenes).
 
-- Trabajos de evaluación.
+- [Trabajos de evaluación](https://github.com/DavidLMS/SeguridadInformatica/tree/master/PDF/Trabajos).
 
-- Práctica de GPG de un artículo adaptada para la versión de Ubuntu 20.04.
+- [Práctica de GPG](https://github.com/DavidLMS/SeguridadInformatica/blob/master/PDF/Actividades/practicagpg.pdf) de un artículo de GENBETA adaptada para la versión de Ubuntu 20.04.
 
 Estos materiales no son perfectos, ni pretenden serlo. El principal objetivo de compartirlos es poder recibir retroalimentación y propuestas de mejoras. Recomiendo siempre adaptar el material y la metodología al alumnado del curso que tengamos.
