@@ -1,6 +1,6 @@
 #Manual de GPG: cifra, firma y envía datos de forma segura
 
-**NOTA**: Está práctica es una adaptación del manual de GENBETA ([https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura](https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura)) a Ubuntu Server 19.
+**NOTA**: Está práctica es una adaptación del manual de GENBETA ([https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura](https://www.genbeta.com/desarrollo/manual-de-gpg-cifra-y-envia-datos-de-forma-segura)) a Ubuntu Server 20.04.
 
 ##¿Qué es GnuPG?
 
