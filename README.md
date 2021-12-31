@@ -12,6 +12,10 @@
 Material para la enseñanza y evaluación del módulo Seguridad Informática del C.F.G.M. Sistemas Microinformáticos y Redes.
 Utilizado en el curso 2020-2021.
 
+![logo][logo-image]
+
+[logo-image]: https://github.com/DavidLMS/SeguridadInformatica/blob/master/logo/logo.png
+
 En este repositorio encontraréis:
 
 - [Criterios de calificación usados](https://github.com/DavidLMS/SeguridadInformatica/blob/master/Criterios%20de%20calificación%20(PD).pdf).
